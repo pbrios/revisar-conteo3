@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Inventarios</string>
+    <string name="servername">http://www.pbcsoftware.esy.es/conexiones/</string>
 </resources>
